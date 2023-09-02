@@ -7,9 +7,6 @@ Desenvolvimento de uma aplicação voltada para incentivar e facilitar o process
 ## Equipe
 
 - Erick de Araujo Ferreira 
-- Adriel Correa Matielo
-- Danilo Machado de Souza
-- Gabriela Maria dos reis
 
 ## Descrição das telas e fluxos
 
